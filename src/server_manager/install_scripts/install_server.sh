@@ -563,12 +563,11 @@ function main() {
   install_shadowbox
 }
 
+
+
+
+
+
+
+
 main "$@"
-
-
-
-
-
-
-
-
